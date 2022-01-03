@@ -3,21 +3,8 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
+Hello! I go by either Ruby or Qingzhi (see this wonderful [demo](https://www.chinesenamesinenglish.com/wiki/Qingzhi) for how to pronounce it). I’m from Shenzhen, China, and I use she/her/hers pronouns.
 
-## About this Site
+I’m a graduate student working with [Dr. Elise Piazza](https://www.piazzalab.com/) at the University of Rochester. I’m curious about human minds and how individuals interact with one another, especially through the medium of sound. In my graduate studies, I hope to explore the role of improvisation as a means of communication and a type of creativity in interpersonal interaction, musically and linguistically, among adults and children. Currently, I’m using computational and behavioral methods to examine creativity in people’s improvised storytelling (project 1) and how people’s prosody adapts to one another during a conversation (project 2). Please go to the [RESEARCH](/research) section for more details.
 
-This project is a slight customization based off of some great work by 
-  [NC State University Libraries](https://www.lib.ncsu.edu/).
-  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
-  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
-
-
-## Creating Your Own
-
-To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
-  There you'll find a basic [guide](/blog/getting-started) that will help you
-  create your new site.
-  
+Outside of academia, I love playing the violin in large ensembles and singing in the car. I also enjoy journaling, doing workouts, trying new recipes, and massaging my cat at home.
