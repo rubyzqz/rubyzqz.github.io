@@ -17,4 +17,20 @@ You can update the `title` of file (line 3) to change the heading of
   in the navigation and/or adjust its url, see `data/navigation.yml` file.
 -->
 
+## Improvised Storytelling Project
+
+This project is a slight customization based off of some great work by 
+  [NC State University Libraries](https://www.lib.ncsu.edu/).
+  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
+  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
+  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
+
+
+## Prosodic Adaptation Project
+
+
+To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
+  There you'll find a basic [guide](/blog/getting-started) that will help you
+  create your new site.
+
 
