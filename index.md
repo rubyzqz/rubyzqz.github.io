@@ -1,5 +1,5 @@
 ---
-layout: About Me
+layout: Home
 excerpt: "About Me..."
 ---
 
