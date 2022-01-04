@@ -7,12 +7,12 @@ logo: # logo.png # filename of a logo image that has been placed into your image
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Qingzhi Ruby Zeng
+  name: Qingzhi Ruby Zeng 曾晴至
   avatar: ruby.JPG
   bio: Graduate Student at University of Rochester, Brain &amp; Cognitive Sciences 
   email: qzeng6@ur.rochester.edu
   twitter: rubyzqz
-  linkedin: https://www.linkedin.com/in/qingzhi-ruby-zeng-35b20213a/
+  linkedin: qingzhi-ruby-zeng-35b20213a
   github: rubyzqz
   orcid: 0000-0002-4954-6931
   researchgate: #researchgate username 
