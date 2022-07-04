@@ -9,8 +9,7 @@ logo: # logo.png # filename of a logo image that has been placed into your image
 owner:
   name: Qingzhi Ruby Zeng 曾晴至
   avatar: ruby.JPG
-  bio: Graduate Student,
-        University of Rochester, Brain &amp; Cognitive Sciences 
+  bio: Graduate Student, \n Brain &amp; Cognitive Sciences Department, \n University of Rochester
   email: qzeng6@ur.rochester.edu
   twitter: rubyzqz
   linkedin: qingzhi-ruby-zeng-35b20213a
