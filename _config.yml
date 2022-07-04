@@ -1,7 +1,7 @@
 
 # Site wide configuration
 
-title: Qingzhi Ruby Zeng 曾晴至
+title: Qingzhi Ruby Zeng <br> 曾晴至
 locale: en_US
 logo: # logo.png # filename of a logo image that has been placed into your images directory
 
@@ -9,7 +9,7 @@ logo: # logo.png # filename of a logo image that has been placed into your image
 owner:
   name: Qingzhi Ruby Zeng 曾晴至
   avatar: ruby.JPG
-  bio: Graduate Student, <br> Brain &amp; Cognitive Sciences Department, <br> University of Rochester
+  bio: Graduate Student, <br> Brain &amp; Cognitive Sciences, <br> University of Rochester
   email: qzeng6@ur.rochester.edu
   twitter: rubyzqz
   linkedin: qingzhi-ruby-zeng-35b20213a
